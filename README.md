@@ -23,18 +23,11 @@
    <a href="https://github.com/SpyF0x/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  
-  <a href="https://spyfox.me">
-    <img src="https://img.shields.io/badge/BLOG-407AFC?style=for-the-badge&logo=icloud&logoColor=white">
-  </a>
-  
+ 
    <a href="https://spyfox.me/index.xml">
     <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white">
    </a>
     
-   <a href="https://spyfox.me/contact/">
-    <img src="https://img.shields.io/badge/MAIL-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white">
-   </a>
 
 </p>
 </h1>
